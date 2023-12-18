@@ -1,1 +1,3 @@
-
+# figure out the goal
+cansat_BMX055_and_GPS_success20231204_ver2.0はBMX055とGPSの統合処理をしたものである。こいつの欠点はGPS受信時のみBMX055の値が出力されないことである。
+これを条件分岐を使ってできんことはないと思うが、まだやっていない。
