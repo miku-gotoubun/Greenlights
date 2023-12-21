@@ -2,7 +2,7 @@
 
 void setup() {
   Serial.begin(115200);
-  PS4.begin("c4:de:e2:c7:1b:e6");
+  PS4.begin("a1:b2:c3:d4:e5:f6"); //Enter Mac Address
   Serial.println("Ready.");
 }
 
