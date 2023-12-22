@@ -7,3 +7,8 @@ cansat_BMX055_and_GPS_success_2023_dec20a_ver4　ではGPSを受信していな�
 GPSの出力にタイムラグがありそうな気がする(未確認)  
 
 当分の間はver2で動作確認する。
+
+### [2023-12-22](https://github.com/miku-gotoubun/Greenlights/blob/main/Function-Test/figure%20out%20the%20goal/cansat_BMX055_and_GPS_degree_trying_ver1.0_2023_dec22a.ino )  
+cansat_BMX055_and_GPS_degree_trying_ver1.0_2023_dec22a.ino ではゴールまでの距離と北からの角度と時刻を計算するコードを作った。
+
+次回はGPSでゴールの方角を編み出すコードを作る。
