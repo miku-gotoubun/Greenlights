@@ -1,1 +1,2 @@
-
+# DC-moter
+このDCモータはanalogWriteを使用していない。ledcWriteを使用している。ESP32の場合は後者の方がDCモータのPWM制御に適している。
