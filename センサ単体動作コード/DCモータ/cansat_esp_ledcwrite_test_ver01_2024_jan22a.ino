@@ -76,7 +76,7 @@ void loop() {
   //後退
   digitalWrite(INA1,HIGH);
   digitalWrite(INA2,LOW);
-  ledcWrite(0,0);
+  ledcWrite(0,0);  //後退時はデューティ比が０の時最高速度になる。
 
   digitalWrite(INB1,LOW);
   digitalWrite(INB2,HIGH);
