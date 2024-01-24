@@ -28,6 +28,15 @@ void loop() {
   ledcWrite(1,200);
   delay(1000);
 
+  //停止
+  digitalWrite(INA1,LOW);
+  digitalWrite(INA2,LOW);
+  ledcWrite(0,0);
+  digitalWrite(INB1,LOW);
+  digitalWrite(INB2,LOW);
+  ledcWrite(1,0);
+  delay(1000);
+
   //右回転
   digitalWrite(INA1,LOW);
   digitalWrite(INA2,HIGH);
@@ -37,7 +46,15 @@ void loop() {
 
   delay(1000);
 
-
+//停止
+  digitalWrite(INA1,LOW);
+  digitalWrite(INA2,LOW);
+  ledcWrite(0,0);
+  digitalWrite(INB1,LOW);
+  digitalWrite(INB2,LOW);
+  ledcWrite(1,0);
+  delay(1000);
+  
   //左回転
   digitalWrite(INB1,HIGH);
   digitalWrite(INB2,LOW);
@@ -47,14 +64,32 @@ void loop() {
 
   delay(1000);
 
+  //停止
+  digitalWrite(INA1,LOW);
+  digitalWrite(INA2,LOW);
+  ledcWrite(0,0);
+  digitalWrite(INB1,LOW);
+  digitalWrite(INB2,LOW);
+  ledcWrite(1,0);
+  delay(1000);
+
   //後退
   digitalWrite(INA1,HIGH);
   digitalWrite(INA2,LOW);
-  ledcWrite(0,200);
+  ledcWrite(0,0);
 
   digitalWrite(INB1,LOW);
   digitalWrite(INB2,HIGH);
-  ledcWrite(1,200);
+  ledcWrite(1,0);
+  delay(1000);
+
+  //停止
+  digitalWrite(INA1,LOW);
+  digitalWrite(INA2,LOW);
+  ledcWrite(0,0);
+  digitalWrite(INB1,LOW);
+  digitalWrite(INB2,LOW);
+  ledcWrite(1,0);
   delay(1000);
 
 
