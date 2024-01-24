@@ -18,4 +18,7 @@ Greenlights_BMX055_GPS_autonomous_control_2024_jan8a.ino では、GPSでゴー�
 これは恐らく建物内で測定したからだと思う。オフセット補正を自動でやるにしても落下地点の場所によって大きくずれる可能性がある。それだけでなく、DCモータの磁石によってずれることが懸念される。オフセット補正の自動化については再考する必要がある。
 
 ### 2024-01-17
-現時点で安定性のあるものはcansat_BMX055_and_GPS_success20231204_ver2.0である。
+現時点で安定性のあるものはcansat_BMX055_and_GPS_success20231204_ver2.0である。  
+
+### [2024-01-24](https://github.com/miku-gotoubun/Greenlights/blob/main/Function-Test/figure%20out%20the%20goal/Greeenlights_figure_test_ver1.0_2024_jan17.ino)  
+やっと９軸センサ、GPSそれぞれの値を元にDCモータを動かすことができた。そのファイル→Greeenlights_figure_test_ver1.0_2024_jan17.ino
