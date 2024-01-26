@@ -22,3 +22,6 @@ Greenlights_BMX055_GPS_autonomous_control_2024_jan8a.ino では、GPSでゴー�
 
 ### [2024-01-24](https://github.com/miku-gotoubun/Greenlights/blob/main/Function-Test/figure%20out%20the%20goal/Greeenlights_figure_test_ver1.0_2024_jan17.ino)  
 やっと９軸センサ、GPSそれぞれの値を元にDCモータを動かすことができた。そのファイル→Greeenlights_figure_test_ver1.0_2024_jan17.ino
+
+### [2024-01-26](https://github.com/miku-gotoubun/Greenlights/blob/main/Function-Test/figure%20out%20the%20goal/Greeenlights_figure_test_ver2_0_2024_jan25_copy_20240125211431.ino)  
+とりあえずフィードバックを利用してゴール地点の方角を向く再帰処理プログラムは完成したが、どう見ても進んでいる方角がおかしい。次回はこれの原因究明をする。　その前にWi-Fiを完成させたい。
