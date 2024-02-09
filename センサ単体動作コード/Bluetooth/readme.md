@@ -5,5 +5,9 @@
 ・esp32_bluetooth_test01_2024_feb9a.inoはPCとペアリングできるかどうか試したものである。  
 ・BMX055_bluetooth_2024_feb9c.inoはBMX055のデータをbluetooth経由で通信を行ったものである。
 
+# 接続手順
+まず、esp32_bluetooth_test01_2024_feb9a.inoのコードを使ってパソコンとペアリングする。
+次に、ペアリングしたESP32にBMX055_bluetooth_2024_feb9c.inoを書き込む。
+
 参考にしたサイト↓
 https://blog.goo.ne.jp/jh7ubc/e/b12208f4f8d8efd5941bfb742e1aa841
