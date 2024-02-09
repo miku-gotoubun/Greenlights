@@ -1,5 +1,9 @@
 # Bluetoothを使用した無線通信について
 これはESP32とパソコン間でbluetoothペアリングして通信を行っている。この方式だと非常に簡単に通信ができる。
-パソコンではTeratermなどのシリアルモニタを使用してデータ通信内容を確認できる。
+パソコンではTeratermなどのシリアルモニタを使用してデータ通信内容を確認できる.  
+
+・esp32_bluetooth_test01_2024_feb9a.inoはPCとペアリングできるかどうか試したものである。  
+・BMX055_bluetooth_2024_feb9c.inoはBMX055のデータをbluetooth経由で通信を行ったものである。
+
 参考にしたサイト↓
 https://blog.goo.ne.jp/jh7ubc/e/b12208f4f8d8efd5941bfb742e1aa841
