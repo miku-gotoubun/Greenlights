@@ -7,7 +7,7 @@
 
 # 接続手順
 まず、esp32_bluetooth_test01_2024_feb9a.inoのコードを使ってパソコンとペアリングする。
-次に、ペアリングしたESP32にBMX055_bluetooth_2024_feb9c.inoを書き込む。
+次に、ペアリングしたESP32にBMX055_bluetooth_2024_feb9c.inoを書き込む。この手順通りにしないとパソコンと接続できないので注意してください。
 
 参考にしたサイト↓
 https://blog.goo.ne.jp/jh7ubc/e/b12208f4f8d8efd5941bfb742e1aa841
