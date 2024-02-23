@@ -421,7 +421,7 @@ void loop() {
 
       X = xMag - 75;
       Y = yMag - 65;
-      float Mag_Degree = atan2(X, Y) * 180 / PI;
+      float Mag_Degree = atan2(Y, X) * 180 / PI;
       Serial.print("Mag Degree=");
       Serial.println(Mag_Degree-7.5);
 
@@ -521,7 +521,7 @@ void loop() {
 
       X = xMag - 75;
       Y = yMag - 65;
-      float Mag_Degree = atan2(X, Y) * 180 / PI;
+      float Mag_Degree = atan2(Y, X) * 180 / PI;
       Serial.print("Mag Degree=");
       Serial.println(Mag_Degree-7.5);
 
