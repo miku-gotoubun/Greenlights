@@ -31,3 +31,5 @@ Greenlights_figure_test_ver3_0_20240223.inoでは旋回する時、ちゃんと�
 
 ### [2024-02-29](https://github.com/miku-gotoubun/Greenlights/blob/main/Function-Test/figure%20out%20the%20goal/Greenlights_figure_release_ver2_20240229.ino)  
 Greenlights_figure_release_ver2_20240229.inoはゴールへ向ける動作の回数に制限を設けることで正確にゴール地点を目指すようにした。これで後はプログラムの整理をするだけである。
+[Greenlights_figure_release_ver3_20240229.ino](https://github.com/miku-gotoubun/Greenlights/blob/main/Function-Test/figure%20out%20the%20goal/Greenlights_figure_release_ver3_20240229.ino)  
+これはver2のコードを整理したものである。統合処理にはこれを使う。
