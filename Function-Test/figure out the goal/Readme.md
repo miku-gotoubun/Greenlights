@@ -28,3 +28,6 @@ Greenlights_BMX055_GPS_autonomous_control_2024_jan8a.ino では、GPSでゴー�
 
 ### [2024-02-23](https://github.com/miku-gotoubun/Greenlights/blob/main/Function-Test/figure%20out%20the%20goal/Greenlights_figure_test_ver3_0_20240223.ino)
 Greenlights_figure_test_ver3_0_20240223.inoでは旋回する時、ちゃんとゴールの方角を向くように修正した。PWM制御のモーターの値が少しおかしいので修正しなければならない
+
+### [2024-02-29](https://github.com/miku-gotoubun/Greenlights/blob/main/Function-Test/figure%20out%20the%20goal/Greenlights_figure_release_ver2_20240229.ino)  
+Greenlights_figure_release_ver2_20240229.inoはゴールへ向ける動作の回数に制限を設けることで正確にゴール地点を目指すようにした。これで後はプログラムの整理をするだけである。
