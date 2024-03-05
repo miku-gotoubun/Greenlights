@@ -1,1 +1,2 @@
-
+# クラタバージョン(CanSat_GPS_MAG_COMPLETE.ino)
+これはクラタから提供されたBMX055の地磁気を基に方向修正するコードである。CanSat_GPS_MAG_COMPLETE.inoをクローンして使うこと。
