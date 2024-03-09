@@ -1,0 +1,2362 @@
+15:25:05.5,write OK
+15:25:05.5,Press = 1016.05 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:05.6,write OK
+15:25:05.7,Press = 1016.01 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:05.7,write OK
+15:25:05.7,Press = 1016.02 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:05.8,write OK
+15:25:05.9,Press = 1016.05 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:06.0,write OK
+15:25:06.0,Press = 1016.08 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:06.1,write OK
+15:25:06.1,Press = 1016.11 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:06.2,write OK
+15:25:06.2,Press = 1016.08 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:06.4,write OK
+15:25:06.4,Press = 1016.07 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:06.5,write OK
+15:25:06.5,Press = 1016.06 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:06.6,write OK
+15:25:06.6,Press = 1016.02 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:06.7,write OK
+15:25:06.7,Press = 1016.03 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:06.8,write OK
+15:25:06.8,Press = 1015.97 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:07.0,write OK
+15:25:07.0,Press = 1016.08 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:07.1,write OK
+15:25:07.1,Press = 1016.05 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:07.2,write OK
+15:25:07.2,Press = 1016.00 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:07.3,write OK
+15:25:07.3,Press = 1016.08 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:07.4,write OK
+15:25:07.5,Press = 1016.04 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:07.6,write OK
+15:25:07.6,Press = 1016.03 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:07.7,write OK
+15:25:07.7,Press = 1016.07 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:07.8,write OK
+15:25:07.8,Press = 1016.00 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:07.9,write OK
+15:25:07.9,Press = 1015.99 hPa  Temp = 13.63 deg.  Waiting. FlytePIN is connecting
+15:25:08.1,write OK
+15:25:08.1,Press = 1015.98 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:08.2,write OK
+15:25:08.2,Press = 1016.01 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:08.3,write OK
+15:25:08.3,Press = 1016.02 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:08.4,write OK
+15:25:08.5,Press = 1016.05 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:08.6,write OK
+15:25:08.6,Press = 1016.02 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:08.7,write OK
+15:25:08.7,Press = 1016.05 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:08.8,write OK
+15:25:08.8,Press = 1016.00 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:09.0,write OK
+15:25:09.0,Press = 1016.01 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:09.1,write OK
+15:25:09.1,Press = 1016.01 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:09.3,write OK
+15:25:09.3,Press = 1015.96 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:09.3,write OK
+15:25:09.4,Press = 1016.01 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:09.4,write OK
+15:25:09.5,Press = 1015.95 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:09.6,write OK
+15:25:09.6,Press = 1015.95 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:09.7,write OK
+15:25:09.7,Press = 1016.01 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:09.8,write OK
+15:25:09.9,Press = 1015.95 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:10.0,write OK
+15:25:10.0,Press = 1015.92 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:10.1,write OK
+15:25:10.1,Press = 1015.90 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:10.2,write OK
+15:25:10.2,Press = 1015.89 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:10.3,write OK
+15:25:10.3,Press = 1015.93 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:10.4,write OK
+15:25:10.5,Press = 1015.91 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:10.6,write OK
+15:25:10.6,Press = 1015.99 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:10.7,write OK
+15:25:10.7,Press = 1015.91 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:10.8,write OK
+15:25:10.8,Press = 1015.93 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:10.9,write OK
+15:25:10.9,Press = 1015.93 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:11.1,write OK
+15:25:11.1,Press = 1015.95 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:11.2,write OK
+15:25:11.2,Press = 1015.92 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:11.3,write OK
+15:25:11.3,Press = 1015.92 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:11.5,write OK
+15:25:11.5,Press = 1015.88 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:11.6,write OK
+15:25:11.6,Press = 1015.90 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:11.7,write OK
+15:25:11.7,Press = 1015.91 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:11.8,write OK
+15:25:11.8,Press = 1015.89 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:11.9,write OK
+15:25:12.0,Press = 1015.88 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:12.1,write OK
+15:25:12.1,Press = 1015.89 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:12.2,write OK
+15:25:12.2,Press = 1015.87 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:12.3,write OK
+15:25:12.3,Press = 1015.92 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:12.4,write OK
+15:25:12.4,Press = 1015.93 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:12.5,write OK
+15:25:12.6,Press = 1015.91 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:12.7,write OK
+15:25:12.7,Press = 1015.91 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:12.8,write OK
+15:25:12.8,Press = 1015.86 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:12.9,write OK
+15:25:12.9,Press = 1015.86 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:13.0,write OK
+15:25:13.1,Press = 1015.88 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:13.2,write OK
+15:25:13.2,Press = 1015.88 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:13.3,write OK
+15:25:13.3,Press = 1015.83 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:13.4,write OK
+15:25:13.4,Press = 1015.85 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:13.5,write OK
+15:25:13.6,Press = 1015.79 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:13.7,write OK
+15:25:13.7,Press = 1015.93 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:13.8,write OK
+15:25:13.8,Press = 1015.84 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:13.9,write OK
+15:25:13.9,Press = 1015.86 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:14.0,write OK
+15:25:14.1,Press = 1015.77 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:14.2,write OK
+15:25:14.2,Press = 1015.87 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:14.3,write OK
+15:25:14.3,Press = 1015.90 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:14.4,write OK
+15:25:14.4,Press = 1015.85 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:14.5,write OK
+15:25:14.6,Press = 1015.86 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:14.6,write OK
+15:25:14.8,Press = 1015.81 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:14.8,write OK
+15:25:14.8,Press = 1015.83 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:14.9,write OK
+15:25:14.9,Press = 1015.76 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:15.0,write OK
+15:25:15.0,Press = 1015.75 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:15.2,write OK
+15:25:15.2,Press = 1015.84 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:15.3,write OK
+15:25:15.3,Press = 1015.81 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:15.4,write OK
+15:25:15.4,Press = 1015.85 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:15.5,write OK
+15:25:15.6,Press = 1015.85 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:15.6,write OK
+15:25:15.6,Press = 1015.80 hPa  Temp = 13.64 deg.  Waiting. FlytePIN is connecting
+15:25:15.8,write OK
+15:25:15.9,Press = 1015.80 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:15.9,write OK
+15:25:15.9,Press = 1015.79 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:16.0,write OK
+15:25:16.0,Press = 1015.76 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:16.1,write OK
+15:25:16.1,Press = 1015.79 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:16.3,write OK
+15:25:16.3,Press = 1015.74 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:16.4,write OK
+15:25:16.4,Press = 1015.72 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:16.5,write OK
+15:25:16.5,Press = 1015.73 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:16.6,write OK
+15:25:16.6,Press = 1015.72 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:16.7,write OK
+15:25:16.8,Press = 1015.68 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:16.9,write OK
+15:25:16.9,Press = 1015.73 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:17.0,write OK
+15:25:17.0,Press = 1015.73 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:17.1,write OK
+15:25:17.1,Press = 1015.69 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:17.2,write OK
+15:25:17.2,Press = 1015.76 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:17.4,write OK
+15:25:17.4,Press = 1015.71 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:17.5,write OK
+15:25:17.5,Press = 1015.72 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:17.6,write OK
+15:25:17.6,Press = 1015.71 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:17.7,write OK
+15:25:17.8,Press = 1015.65 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:17.9,write OK
+15:25:17.9,Press = 1015.71 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:18.0,write OK
+15:25:18.0,Press = 1015.70 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:18.1,write OK
+15:25:18.1,Press = 1015.69 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:18.2,write OK
+15:25:18.3,Press = 1015.69 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:18.3,write OK
+15:25:18.3,Press = 1015.67 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:18.5,write OK
+15:25:18.5,Press = 1015.69 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:18.6,write OK
+15:25:18.6,Press = 1015.68 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:18.7,write OK
+15:25:18.7,Press = 1015.64 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:18.9,write OK
+15:25:18.9,Press = 1015.59 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:19.0,write OK
+15:25:19.0,Press = 1015.67 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:19.1,write OK
+15:25:19.1,Press = 1015.61 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:19.2,write OK
+15:25:19.2,Press = 1015.61 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:19.4,write OK
+15:25:19.4,Press = 1015.65 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:19.5,write OK
+15:25:19.5,Press = 1015.62 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:19.6,write OK
+15:25:19.6,Press = 1015.63 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:19.7,write OK
+15:25:19.7,Press = 1015.66 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:19.9,write OK
+15:25:19.9,Press = 1015.63 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:20.0,write OK
+15:25:20.0,Press = 1015.63 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:20.1,write OK
+15:25:20.1,Press = 1015.61 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:20.2,write OK
+15:25:20.3,Press = 1015.57 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:20.4,write OK
+15:25:20.4,Press = 1015.64 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:20.5,write OK
+15:25:20.5,Press = 1015.59 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:20.6,write OK
+15:25:20.6,Press = 1015.57 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:20.7,write OK
+15:25:20.7,Press = 1015.60 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:20.9,write OK
+15:25:20.9,Press = 1015.56 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:21.0,write OK
+15:25:21.0,Press = 1015.54 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:21.1,write OK
+15:25:21.1,Press = 1015.59 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:21.2,write OK
+15:25:21.3,Press = 1015.58 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:21.4,write OK
+15:25:21.4,Press = 1015.54 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:21.5,write OK
+15:25:21.5,Press = 1015.56 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:21.6,write OK
+15:25:21.6,Press = 1015.58 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:21.7,write OK
+15:25:21.8,Press = 1015.56 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:21.8,write OK
+15:25:21.8,Press = 1015.56 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:22.0,write OK
+15:25:22.0,Press = 1015.62 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:22.1,write OK
+15:25:22.1,Press = 1015.57 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:22.2,write OK
+15:25:22.2,Press = 1015.56 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:22.4,write OK
+15:25:22.4,Press = 1015.57 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:22.5,write OK
+15:25:22.5,Press = 1015.62 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:22.7,write OK
+15:25:22.7,Press = 1015.59 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:22.7,write OK
+15:25:22.7,Press = 1015.57 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:22.8,write OK
+15:25:22.8,Press = 1015.56 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:22.9,write OK
+15:25:22.9,Press = 1015.54 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:23.3,write OK
+15:25:23.3,Press = 1015.57 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:23.4,write OK
+15:25:23.4,Press = 1015.54 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:23.4,write OK
+15:25:23.4,Press = 1015.52 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:23.6,write OK
+15:25:23.6,Press = 1015.53 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:23.7,write OK
+15:25:23.7,Press = 1015.55 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:23.7,write OK
+15:25:23.7,Press = 1015.56 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:24.0,write OK
+15:25:24.0,Press = 1015.53 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:24.0,write OK
+15:25:24.0,Press = 1015.56 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:24.1,write OK
+15:25:24.1,Press = 1015.58 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:24.2,write OK
+15:25:24.2,Press = 1015.54 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:24.3,write OK
+15:25:24.3,Press = 1015.59 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:24.5,write OK
+15:25:24.5,Press = 1015.52 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:24.6,write OK
+15:25:24.6,Press = 1015.55 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:24.7,write OK
+15:25:24.7,Press = 1015.48 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:24.8,write OK
+15:25:24.8,Press = 1015.52 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:24.9,write OK
+15:25:25.0,Press = 1015.50 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:25.1,write OK
+15:25:25.1,Press = 1015.50 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:25.2,write OK
+15:25:25.2,Press = 1015.53 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:25.3,write OK
+15:25:25.3,Press = 1015.51 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:25.4,write OK
+15:25:25.5,Press = 1015.50 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:25.6,write OK
+15:25:25.6,Press = 1015.50 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:25.7,write OK
+15:25:25.7,Press = 1015.54 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:25.8,write OK
+15:25:25.8,Press = 1015.49 hPa  Temp = 13.65 deg.  Waiting. FlytePIN is connecting
+15:25:25.9,write OK
+15:25:25.9,Press = 1015.51 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:26.1,write OK
+15:25:26.1,Press = 1015.53 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:26.2,write OK
+15:25:26.2,Press = 1015.50 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:26.3,write OK
+15:25:26.4,Press = 1015.51 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:26.4,write OK
+15:25:26.4,Press = 1015.50 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:26.5,write OK
+15:25:26.5,Press = 1015.49 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:26.6,write OK
+15:25:26.7,Press = 1015.49 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:26.8,write OK
+15:25:26.8,Press = 1015.42 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:26.9,write OK
+15:25:26.9,Press = 1015.45 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:27.0,write OK
+15:25:27.1,Press = 1015.48 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:27.2,write OK
+15:25:27.3,Press = 1015.38 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:27.3,write OK
+15:25:27.3,Press = 1015.39 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:27.5,write OK
+15:25:27.5,Press = 1015.37 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:27.5,write OK
+15:25:27.5,Press = 1015.37 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:27.7,write OK
+15:25:27.7,Press = 1015.38 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:27.8,write OK
+15:25:27.8,Press = 1015.36 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:27.9,write OK
+15:25:28.0,Press = 1015.43 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:28.0,write OK
+15:25:28.0,Press = 1015.37 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:28.1,write OK
+15:25:28.2,Press = 1015.33 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:28.3,write OK
+15:25:28.3,Press = 1015.35 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:28.4,write OK
+15:25:28.4,Press = 1015.37 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:28.5,write OK
+15:25:28.5,Press = 1015.40 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:28.6,write OK
+15:25:28.7,Press = 1015.38 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:28.8,write OK
+15:25:28.8,Press = 1015.35 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:28.9,write OK
+15:25:28.9,Press = 1015.39 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:29.0,write OK
+15:25:29.0,Press = 1015.39 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:29.1,write OK
+15:25:29.1,Press = 1015.36 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:29.3,write OK
+15:25:29.3,Press = 1015.35 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:29.4,write OK
+15:25:29.4,Press = 1015.33 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:29.5,write OK
+15:25:29.5,Press = 1015.33 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:29.6,write OK
+15:25:29.6,Press = 1015.37 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:29.7,write OK
+15:25:29.8,Press = 1015.33 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:29.9,write OK
+15:25:30.0,Press = 1015.34 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:30.0,write OK
+15:25:30.0,Press = 1015.26 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:30.1,write OK
+15:25:30.2,Press = 1015.28 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:30.2,write OK
+15:25:30.2,Press = 1015.26 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:30.4,write OK
+15:25:30.4,Press = 1015.16 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:30.5,write OK
+15:25:30.6,Press = 1015.24 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:30.6,write OK
+15:25:30.7,Press = 1015.26 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:30.8,write OK
+15:25:30.8,Press = 1015.19 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:31.1,write OK
+15:25:31.1,Press = 1015.19 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:31.1,write OK
+15:25:31.1,Press = 1015.21 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:31.1,write OK
+15:25:31.1,Press = 1015.25 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:31.3,write OK
+15:25:31.3,Press = 1015.27 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:31.4,write OK
+15:25:31.4,Press = 1015.22 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:31.5,write OK
+15:25:31.5,Press = 1015.20 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:31.7,write OK
+15:25:31.7,Press = 1015.25 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:31.8,write OK
+15:25:31.8,Press = 1015.24 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:31.9,write OK
+15:25:31.9,Press = 1015.20 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:32.0,write OK
+15:25:32.0,Press = 1015.28 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:32.1,write OK
+15:25:32.2,Press = 1015.21 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:32.3,write OK
+15:25:32.3,Press = 1015.26 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:32.4,write OK
+15:25:32.4,Press = 1015.14 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:32.5,write OK
+15:25:32.5,Press = 1015.19 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:32.6,write OK
+15:25:32.7,Press = 1015.21 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:32.7,write OK
+15:25:32.8,Press = 1015.24 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:32.9,write OK
+15:25:32.9,Press = 1015.26 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:33.0,write OK
+15:25:33.0,Press = 1015.18 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:33.1,write OK
+15:25:33.2,Press = 1015.23 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:33.3,write OK
+15:25:33.3,Press = 1015.25 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:33.3,write OK
+15:25:33.3,Press = 1015.22 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:33.5,write OK
+15:25:33.5,Press = 1015.23 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:33.6,write OK
+15:25:33.6,Press = 1015.23 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:33.7,write OK
+15:25:33.8,Press = 1015.23 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:33.8,write OK
+15:25:33.9,Press = 1015.20 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:34.0,write OK
+15:25:34.0,Press = 1015.23 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:34.1,write OK
+15:25:34.1,Press = 1015.25 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:34.2,write OK
+15:25:34.3,Press = 1015.23 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:34.3,write OK
+15:25:34.3,Press = 1015.27 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:34.5,write OK
+15:25:34.5,Press = 1015.25 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:34.6,write OK
+15:25:34.6,Press = 1015.23 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:34.7,write OK
+15:25:34.7,Press = 1015.24 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:34.8,write OK
+15:25:34.8,Press = 1015.28 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:35.0,write OK
+15:25:35.0,Press = 1015.28 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:35.1,write OK
+15:25:35.1,Press = 1015.22 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:35.2,write OK
+15:25:35.2,Press = 1015.24 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:35.4,write OK
+15:25:35.4,Press = 1015.25 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:35.5,write OK
+15:25:35.5,Press = 1015.22 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:35.6,write OK
+15:25:35.6,Press = 1015.21 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:35.7,write OK
+15:25:35.7,Press = 1015.27 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:35.8,write OK
+15:25:35.9,Press = 1015.20 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:36.0,write OK
+15:25:36.0,Press = 1015.21 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:36.1,write OK
+15:25:36.1,Press = 1015.22 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:36.2,write OK
+15:25:36.2,Press = 1015.18 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:36.3,write OK
+15:25:36.3,Press = 1015.16 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:36.5,write OK
+15:25:36.5,Press = 1015.20 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:36.6,write OK
+15:25:36.6,Press = 1015.23 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:36.7,write OK
+15:25:36.7,Press = 1015.19 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:36.8,write OK
+15:25:36.9,Press = 1015.19 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:37.0,write OK
+15:25:37.0,Press = 1015.21 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:37.1,write OK
+15:25:37.1,Press = 1015.19 hPa  Temp = 13.66 deg.  Waiting. FlytePIN is connecting
+15:25:37.2,write OK
+15:25:37.2,Press = 1015.18 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:37.3,write OK
+15:25:37.3,Press = 1015.20 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:37.4,write OK
+15:25:37.4,Press = 1015.21 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:37.6,write OK
+15:25:37.7,Press = 1015.17 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:37.7,write OK
+15:25:37.7,Press = 1015.20 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:37.8,write OK
+15:25:37.8,Press = 1015.16 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:38.0,write OK
+15:25:38.0,Press = 1015.17 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:38.1,write OK
+15:25:38.1,Press = 1015.14 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:38.2,write OK
+15:25:38.2,Press = 1015.19 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:38.3,write OK
+15:25:38.3,Press = 1015.11 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:38.4,write OK
+15:25:38.4,Press = 1015.17 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:38.5,write OK
+15:25:38.6,Press = 1015.12 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:38.7,write OK
+15:25:38.7,Press = 1015.18 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:38.8,write OK
+15:25:38.8,Press = 1015.11 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:38.9,write OK
+15:25:39.0,Press = 1015.14 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:39.0,write OK
+15:25:39.0,Press = 1015.13 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:39.2,write OK
+15:25:39.2,Press = 1015.13 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:39.6,write OK
+15:25:39.6,Press = 1015.10 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:39.7,write OK
+15:25:39.7,Press = 1015.14 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:39.7,write OK
+15:25:39.7,Press = 1015.17 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:39.7,write OK
+15:25:39.7,Press = 1015.12 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:39.8,write OK
+15:25:39.8,Press = 1015.12 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:39.9,write OK
+15:25:39.9,Press = 1015.13 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:40.0,write OK
+15:25:40.1,Press = 1015.13 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:40.1,write OK
+15:25:40.2,Press = 1015.13 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:40.3,write OK
+15:25:40.3,Press = 1015.08 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:40.4,write OK
+15:25:40.4,Press = 1015.12 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:40.5,write OK
+15:25:40.6,Press = 1015.12 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:40.7,write OK
+15:25:40.7,Press = 1015.15 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:40.8,write OK
+15:25:40.8,Press = 1015.07 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:40.9,write OK
+15:25:40.9,Press = 1015.07 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:41.0,write OK
+15:25:41.0,Press = 1015.05 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:41.1,write OK
+15:25:41.2,Press = 1015.06 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:41.3,write OK
+15:25:41.3,Press = 1015.05 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:41.4,write OK
+15:25:41.5,Press = 1015.02 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:41.6,write OK
+15:25:41.6,Press = 1015.05 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:41.6,write OK
+15:25:41.6,Press = 1015.04 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:41.8,write OK
+15:25:41.8,Press = 1015.03 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:41.9,write OK
+15:25:41.9,Press = 1015.00 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:42.1,write OK
+15:25:42.1,Press = 1015.15 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:42.2,write OK
+15:25:42.2,Press = 1015.08 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:42.3,write OK
+15:25:42.3,Press = 1015.11 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:42.4,write OK
+15:25:42.5,Press = 1015.04 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:42.5,write OK
+15:25:42.5,Press = 1015.00 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:42.7,write OK
+15:25:42.7,Press = 1015.03 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:42.8,write OK
+15:25:42.8,Press = 1015.06 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:42.9,write OK
+15:25:42.9,Press = 1015.03 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:43.0,write OK
+15:25:43.0,Press = 1015.02 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:43.1,write OK
+15:25:43.1,Press = 1015.02 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:43.3,write OK
+15:25:43.3,Press = 1014.98 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:43.4,write OK
+15:25:43.4,Press = 1014.95 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:43.5,write OK
+15:25:43.5,Press = 1014.92 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:43.7,write OK
+15:25:43.7,Press = 1014.92 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:43.7,write OK
+15:25:43.8,Press = 1014.95 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:43.9,write OK
+15:25:43.9,Press = 1014.91 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:44.0,write OK
+15:25:44.0,Press = 1014.92 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:44.1,write OK
+15:25:44.1,Press = 1014.93 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:44.3,write OK
+15:25:44.3,Press = 1014.85 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:44.4,write OK
+15:25:44.4,Press = 1014.89 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:44.5,write OK
+15:25:44.5,Press = 1014.89 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:44.6,write OK
+15:25:44.6,Press = 1014.92 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:44.8,write OK
+15:25:44.8,Press = 1014.86 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:44.8,write OK
+15:25:44.8,Press = 1014.82 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:45.0,write OK
+15:25:45.0,Press = 1014.82 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:45.2,write OK
+15:25:45.2,Press = 1014.83 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:45.3,write OK
+15:25:45.3,Press = 1014.80 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:45.4,write OK
+15:25:45.4,Press = 1014.78 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:45.6,write OK
+15:25:45.6,Press = 1014.74 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:45.6,write OK
+15:25:45.6,Press = 1014.74 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:45.7,write OK
+15:25:45.8,Press = 1014.78 hPa  Temp = 13.67 deg.  Waiting. FlytePIN is connecting
+15:25:45.9,write OK
+15:25:45.9,Press = 1014.79 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:46.0,write OK
+15:25:46.0,Press = 1014.78 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:46.1,write OK
+15:25:46.2,Press = 1014.75 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:46.2,write OK
+15:25:46.2,Press = 1014.75 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:46.3,write OK
+15:25:46.3,Press = 1014.67 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:46.5,write OK
+15:25:46.5,Press = 1014.72 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:46.6,write OK
+15:25:46.6,Press = 1014.73 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:46.7,write OK
+15:25:46.8,Press = 1014.72 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:46.9,write OK
+15:25:46.9,Press = 1014.66 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:47.0,write OK
+15:25:47.0,Press = 1014.63 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:47.1,write OK
+15:25:47.1,Press = 1014.67 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:47.2,write OK
+15:25:47.3,Press = 1014.69 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:47.4,write OK
+15:25:47.4,Press = 1014.62 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:47.5,write OK
+15:25:47.5,Press = 1014.57 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:47.6,write OK
+15:25:47.7,Press = 1014.65 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:47.7,write OK
+15:25:47.7,Press = 1014.57 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:47.9,write OK
+15:25:47.9,Press = 1014.58 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:48.0,write OK
+15:25:48.0,Press = 1014.58 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:48.1,write OK
+15:25:48.1,Press = 1014.60 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:48.2,write OK
+15:25:48.2,Press = 1014.59 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:48.4,write OK
+15:25:48.4,Press = 1014.53 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:48.5,write OK
+15:25:48.5,Press = 1014.54 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:48.6,write OK
+15:25:48.6,Press = 1014.50 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:48.7,write OK
+15:25:48.8,Press = 1014.44 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.0,write OK
+15:25:49.0,Press = 1014.50 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.1,write OK
+15:25:49.1,Press = 1014.47 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.1,write OK
+15:25:49.2,Press = 1014.37 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.2,write OK
+15:25:49.2,Press = 1014.46 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.3,write OK
+15:25:49.4,Press = 1014.48 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.5,write OK
+15:25:49.5,Press = 1014.43 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.6,write OK
+15:25:49.6,Press = 1014.41 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.7,write OK
+15:25:49.7,Press = 1014.38 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.8,write OK
+15:25:49.8,Press = 1014.41 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:49.9,write OK
+15:25:49.9,Press = 1014.44 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:50.1,write OK
+15:25:50.1,Press = 1014.38 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:50.2,write OK
+15:25:50.2,Press = 1014.37 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:50.3,write OK
+15:25:50.3,Press = 1014.42 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:50.4,write OK
+15:25:50.5,Press = 1014.36 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:50.6,write OK
+15:25:50.6,Press = 1014.36 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:50.7,write OK
+15:25:50.7,Press = 1014.39 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:50.8,write OK
+15:25:50.8,Press = 1014.39 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:50.9,write OK
+15:25:51.0,Press = 1014.37 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:51.1,write OK
+15:25:51.1,Press = 1014.32 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:51.2,write OK
+15:25:51.2,Press = 1014.28 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:51.3,write OK
+15:25:51.3,Press = 1014.30 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:51.4,write OK
+15:25:51.5,Press = 1014.33 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:51.5,write OK
+15:25:51.5,Press = 1014.27 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:51.7,write OK
+15:25:51.7,Press = 1014.32 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:51.8,write OK
+15:25:51.8,Press = 1014.24 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:52.0,write OK
+15:25:52.0,Press = 1014.25 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:52.1,write OK
+15:25:52.1,Press = 1014.31 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:52.2,write OK
+15:25:52.2,Press = 1014.27 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:52.3,write OK
+15:25:52.3,Press = 1014.28 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:52.5,write OK
+15:25:52.5,Press = 1014.21 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:52.6,write OK
+15:25:52.6,Press = 1014.26 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:52.7,write OK
+15:25:52.7,Press = 1014.32 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:52.9,write OK
+15:25:52.9,Press = 1014.28 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:53.0,write OK
+15:25:53.0,Press = 1014.26 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:53.1,write OK
+15:25:53.1,Press = 1014.25 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:53.2,write OK
+15:25:53.2,Press = 1014.28 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:53.3,write OK
+15:25:53.4,Press = 1014.26 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:53.5,write OK
+15:25:53.5,Press = 1014.26 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:53.6,write OK
+15:25:53.6,Press = 1014.23 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:53.7,write OK
+15:25:53.7,Press = 1014.20 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:53.8,write OK
+15:25:53.8,Press = 1014.13 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:53.9,write OK
+15:25:54.0,Press = 1014.16 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:54.1,write OK
+15:25:54.2,Press = 1014.25 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:54.2,write OK
+15:25:54.2,Press = 1014.21 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:54.3,write OK
+15:25:54.3,Press = 1014.25 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:54.4,write OK
+15:25:54.4,Press = 1014.20 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:54.5,write OK
+15:25:54.5,Press = 1014.09 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:54.7,write OK
+15:25:54.7,Press = 1014.09 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:54.8,write OK
+15:25:54.8,Press = 1014.10 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:54.9,write OK
+15:25:54.9,Press = 1014.11 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:55.1,write OK
+15:25:55.1,Press = 1014.12 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:55.1,write OK
+15:25:55.2,Press = 1014.07 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:55.3,write OK
+15:25:55.3,Press = 1014.11 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:55.4,write OK
+15:25:55.4,Press = 1014.10 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:55.5,write OK
+15:25:55.6,Press = 1014.08 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:55.6,write OK
+15:25:55.6,Press = 1014.09 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:55.8,write OK
+15:25:55.8,Press = 1014.06 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:55.9,write OK
+15:25:55.9,Press = 1014.03 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:56.0,write OK
+15:25:56.0,Press = 1014.07 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:56.1,write OK
+15:25:56.2,Press = 1014.02 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:56.3,write OK
+15:25:56.3,Press = 1013.99 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:56.4,write OK
+15:25:56.4,Press = 1014.03 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:56.5,write OK
+15:25:56.5,Press = 1013.98 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:56.6,write OK
+15:25:56.7,Press = 1013.97 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:56.8,write OK
+15:25:56.8,Press = 1013.98 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:56.9,write OK
+15:25:56.9,Press = 1013.99 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:57.0,write OK
+15:25:57.0,Press = 1014.01 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:57.1,write OK
+15:25:57.1,Press = 1014.01 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:57.3,write OK
+15:25:57.3,Press = 1013.97 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:57.4,write OK
+15:25:57.4,Press = 1013.99 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:57.5,write OK
+15:25:57.5,Press = 1013.96 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:57.7,write OK
+15:25:57.7,Press = 1013.95 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:57.7,write OK
+15:25:57.7,Press = 1013.95 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:58.0,write OK
+15:25:58.0,Press = 1013.96 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:58.0,write OK
+15:25:58.0,Press = 1013.91 hPa  Temp = 13.68 deg.  Waiting. FlytePIN is connecting
+15:25:58.1,write OK
+15:25:58.1,Press = 1013.89 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:58.3,write OK
+15:25:58.3,Press = 1013.87 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:58.4,write OK
+15:25:58.4,Press = 1013.93 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:58.5,write OK
+15:25:58.5,Press = 1013.89 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:58.6,write OK
+15:25:58.6,Press = 1013.92 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:58.7,write OK
+15:25:58.8,Press = 1013.88 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:58.9,write OK
+15:25:58.9,Press = 1013.87 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:59.0,write OK
+15:25:59.1,Press = 1013.87 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:59.1,write OK
+15:25:59.1,Press = 1013.86 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:59.2,write OK
+15:25:59.2,Press = 1013.78 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:59.4,write OK
+15:25:59.4,Press = 1013.78 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:59.5,write OK
+15:25:59.5,Press = 1013.75 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:59.6,write OK
+15:25:59.6,Press = 1013.76 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:59.7,write OK
+15:25:59.7,Press = 1013.73 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:25:59.8,write OK
+15:25:59.9,Press = 1013.77 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:00.0,write OK
+15:26:00.0,Press = 1013.80 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:00.1,write OK
+15:26:00.1,Press = 1013.81 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:00.2,write OK
+15:26:00.2,Press = 1013.75 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:00.4,write OK
+15:26:00.5,Press = 1013.75 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:00.5,write OK
+15:26:00.5,Press = 1013.77 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:00.6,write OK
+15:26:00.6,Press = 1013.73 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:00.7,write OK
+15:26:00.7,Press = 1013.75 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:00.9,write OK
+15:26:00.9,Press = 1013.68 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:01.0,write OK
+15:26:01.0,Press = 1013.62 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:01.1,write OK
+15:26:01.1,Press = 1013.60 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:01.2,write OK
+15:26:01.2,Press = 1013.66 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:01.3,write OK
+15:26:01.4,Press = 1013.69 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:01.4,write OK
+15:26:01.5,Press = 1013.67 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:01.6,write OK
+15:26:01.8,Press = 1013.68 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:01.9,write OK
+15:26:01.9,Press = 1013.64 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:02.1,write OK
+15:26:02.1,Press = 1013.65 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:02.1,write OK
+15:26:02.2,Press = 1013.67 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:02.2,write OK
+15:26:02.3,Press = 1013.60 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:02.3,write OK
+15:26:02.3,Press = 1013.66 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:02.4,write OK
+15:26:02.4,Press = 1013.59 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:02.4,write OK
+15:26:02.4,Press = 1013.59 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:02.6,write OK
+15:26:02.6,Press = 1013.55 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:02.7,write OK
+15:26:02.7,Press = 1013.54 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:02.9,write OK
+15:26:02.9,Press = 1013.51 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:03.0,write OK
+15:26:03.1,Press = 1013.51 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:03.1,write OK
+15:26:03.1,Press = 1013.57 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:03.2,write OK
+15:26:03.2,Press = 1013.50 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:03.4,write OK
+15:26:03.4,Press = 1013.54 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:03.5,write OK
+15:26:03.5,Press = 1013.50 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:03.7,write OK
+15:26:03.7,Press = 1013.48 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:03.7,write OK
+15:26:03.8,Press = 1013.44 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:03.8,write OK
+15:26:03.9,Press = 1013.46 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:04.0,write OK
+15:26:04.0,Press = 1013.50 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:04.1,write OK
+15:26:04.1,Press = 1013.47 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:04.2,write OK
+15:26:04.2,Press = 1013.54 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:04.4,write OK
+15:26:04.4,Press = 1013.40 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.0,write OK
+15:26:05.0,Press = 1013.40 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.0,write OK
+15:26:05.0,Press = 1013.43 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.0,write OK
+15:26:05.0,Press = 1013.42 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.1,write OK
+15:26:05.1,Press = 1013.39 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.1,write OK
+15:26:05.1,Press = 1013.39 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.1,write OK
+15:26:05.1,Press = 1013.39 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.2,write OK
+15:26:05.2,Press = 1013.45 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.3,write OK
+15:26:05.3,Press = 1013.43 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.5,write OK
+15:26:05.5,Press = 1013.39 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.6,write OK
+15:26:05.6,Press = 1013.39 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.7,write OK
+15:26:05.7,Press = 1013.39 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:05.9,write OK
+15:26:06.0,Press = 1013.34 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:06.0,write OK
+15:26:06.0,Press = 1013.38 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:06.0,write OK
+15:26:06.0,Press = 1013.38 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:06.2,write OK
+15:26:06.2,Press = 1013.36 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:06.3,write OK
+15:26:06.3,Press = 1013.34 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:06.4,write OK
+15:26:06.5,Press = 1013.40 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:06.5,write OK
+15:26:06.6,Press = 1013.35 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:06.7,write OK
+15:26:06.7,Press = 1013.34 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:06.8,write OK
+15:26:06.8,Press = 1013.35 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:07.0,write OK
+15:26:07.0,Press = 1013.36 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:07.1,write OK
+15:26:07.1,Press = 1013.34 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:07.2,write OK
+15:26:07.2,Press = 1013.38 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:07.3,write OK
+15:26:07.3,Press = 1013.41 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:07.4,write OK
+15:26:07.4,Press = 1013.35 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:07.5,write OK
+15:26:07.5,Press = 1013.36 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:07.6,write OK
+15:26:07.7,Press = 1013.39 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:07.8,write OK
+15:26:07.8,Press = 1013.30 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:07.9,write OK
+15:26:07.9,Press = 1013.34 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:08.0,write OK
+15:26:08.0,Press = 1013.29 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:08.1,write OK
+15:26:08.2,Press = 1013.31 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:08.3,write OK
+15:26:08.3,Press = 1013.30 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:08.4,write OK
+15:26:08.4,Press = 1013.36 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:08.5,write OK
+15:26:08.5,Press = 1013.35 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:08.6,write OK
+15:26:08.6,Press = 1013.32 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:08.8,write OK
+15:26:08.8,Press = 1013.36 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:08.9,write OK
+15:26:09.0,Press = 1013.29 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:09.0,write OK
+15:26:09.0,Press = 1013.29 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:09.1,write OK
+15:26:09.2,Press = 1013.27 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:09.3,write OK
+15:26:09.3,Press = 1013.27 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:09.4,write OK
+15:26:09.4,Press = 1013.24 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:09.5,write OK
+15:26:09.5,Press = 1013.21 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:09.6,write OK
+15:26:09.7,Press = 1013.25 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:09.8,write OK
+15:26:09.8,Press = 1013.27 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:09.9,write OK
+15:26:09.9,Press = 1013.22 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:10.0,write OK
+15:26:10.0,Press = 1013.23 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:10.1,write OK
+15:26:10.2,Press = 1013.25 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:10.3,write OK
+15:26:10.3,Press = 1013.27 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:10.4,write OK
+15:26:10.4,Press = 1013.29 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:10.5,write OK
+15:26:10.5,Press = 1013.28 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:10.6,write OK
+15:26:10.6,Press = 1013.21 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:10.7,write OK
+15:26:10.8,Press = 1013.24 hPa  Temp = 13.69 deg.  Waiting. FlytePIN is connecting
+15:26:10.9,write OK
+15:26:10.9,Press = 1013.18 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:11.0,write OK
+15:26:11.0,Press = 1013.25 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:11.1,write OK
+15:26:11.1,Press = 1013.18 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:11.3,write OK
+15:26:11.3,Press = 1013.16 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:11.4,write OK
+15:26:11.4,Press = 1013.20 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:12.3,write OK
+15:26:12.3,Press = 1013.16 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:12.3,write OK
+15:26:12.3,Press = 1013.20 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:12.3,write OK
+15:26:12.3,Press = 1013.17 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:12.3,write OK
+15:26:12.3,Press = 1013.13 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:12.4,write OK
+15:26:12.5,Press = 1013.10 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:12.5,write OK
+15:26:12.5,Press = 1013.12 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:12.5,write OK
+15:26:13.4,Press = 1013.08 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.4,write OK
+15:26:13.4,Press = 1013.13 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.5,write OK
+15:26:13.5,Press = 1013.09 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.5,write OK
+15:26:13.6,Press = 1013.11 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.6,write OK
+15:26:13.6,Press = 1013.12 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.6,write OK
+15:26:13.6,Press = 1013.06 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.7,write OK
+15:26:13.7,Press = 1013.06 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.8,write OK
+15:26:13.8,Press = 1013.04 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.8,write OK
+15:26:13.8,Press = 1013.04 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.8,write OK
+15:26:13.9,Press = 1013.03 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:13.9,write OK
+15:26:13.9,Press = 1012.99 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:14.1,write OK
+15:26:14.1,Press = 1013.01 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:14.3,write OK
+15:26:14.3,Press = 1013.03 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:14.3,write OK
+15:26:14.3,Press = 1013.04 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:14.4,write OK
+15:26:14.4,Press = 1013.01 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:14.4,write OK
+15:26:14.4,Press = 1013.00 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:14.6,write OK
+15:26:14.6,Press = 1013.03 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:14.7,write OK
+15:26:14.7,Press = 1013.03 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:14.8,write OK
+15:26:14.8,Press = 1012.98 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:14.9,write OK
+15:26:14.9,Press = 1012.99 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:15.5,write OK
+15:26:15.5,Press = 1012.99 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:15.5,write OK
+15:26:15.5,Press = 1013.00 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:15.5,write OK
+15:26:15.5,Press = 1012.94 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:15.6,write OK
+15:26:15.6,Press = 1012.97 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:15.7,write OK
+15:26:15.7,Press = 1012.92 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:15.7,write OK
+15:26:15.7,Press = 1012.93 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:15.8,write OK
+15:26:15.8,Press = 1012.94 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:15.9,write OK
+15:26:15.9,Press = 1012.90 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:16.1,write OK
+15:26:16.1,Press = 1012.92 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:16.2,write OK
+15:26:16.2,Press = 1012.98 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:16.3,write OK
+15:26:16.3,Press = 1012.91 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:16.4,write OK
+15:26:16.5,Press = 1012.97 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:16.6,write OK
+15:26:16.6,Press = 1012.98 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:16.7,write OK
+15:26:16.7,Press = 1012.97 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:16.8,write OK
+15:26:16.8,Press = 1012.97 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:16.9,write OK
+15:26:16.9,Press = 1012.90 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:17.1,write OK
+15:26:17.1,Press = 1012.97 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:17.2,write OK
+15:26:17.2,Press = 1012.95 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:17.3,write OK
+15:26:17.3,Press = 1012.89 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:17.4,write OK
+15:26:17.4,Press = 1012.92 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:17.5,write OK
+15:26:17.6,Press = 1012.89 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:17.6,write OK
+15:26:17.7,Press = 1012.93 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:17.8,write OK
+15:26:17.8,Press = 1012.91 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:17.9,write OK
+15:26:18.0,Press = 1012.92 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:19.0,write OK
+15:26:19.1,Press = 1012.91 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:19.1,write OK
+15:26:19.1,Press = 1012.99 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:19.2,write OK
+15:26:19.3,Press = 1012.95 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:19.4,write OK
+15:26:19.4,Press = 1012.95 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:19.6,write OK
+15:26:20.0,Press = 1012.98 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.1,write OK
+15:26:20.1,Press = 1012.90 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.2,write OK
+15:26:20.2,Press = 1012.91 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.3,write OK
+15:26:20.3,Press = 1012.98 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.3,write OK
+15:26:20.3,Press = 1012.92 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.3,write OK
+15:26:20.3,Press = 1012.91 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.3,write OK
+15:26:20.4,Press = 1012.88 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.5,write OK
+15:26:20.5,Press = 1012.90 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.5,write OK
+15:26:20.5,Press = 1012.90 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.5,write OK
+15:26:20.5,Press = 1012.86 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:20.5,write OK
+15:26:20.5,Press = 1012.91 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:21.8,write OK
+15:26:21.8,Press = 1012.87 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:21.8,write OK
+15:26:21.8,Press = 1012.84 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:22.8,write OK
+15:26:22.8,Press = 1012.83 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:22.8,write OK
+15:26:22.8,Press = 1012.84 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:22.9,write OK
+15:26:22.9,Press = 1012.81 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:22.9,write OK
+15:26:22.9,Press = 1012.84 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:23.0,write OK
+15:26:23.0,Press = 1012.83 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:23.1,write OK
+15:26:23.1,Press = 1012.86 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:23.1,write OK
+15:26:23.1,Press = 1012.85 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:23.1,write OK
+15:26:23.1,Press = 1012.86 hPa  Temp = 13.70 deg.  Waiting. FlytePIN is connecting
+15:26:23.1,write OK
+15:26:23.1,Press = 1012.90 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:23.1,write OK
+15:26:23.1,Press = 1012.89 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:23.2,write OK
+15:26:23.2,Press = 1012.94 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:23.3,write OK
+15:26:23.3,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:23.4,write OK
+15:26:23.4,Press = 1012.85 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:23.9,write OK
+15:26:24.0,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.4,write OK
+15:26:24.4,Press = 1012.86 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.5,write OK
+15:26:24.5,Press = 1012.91 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.5,write OK
+15:26:24.5,Press = 1012.90 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.5,write OK
+15:26:24.5,Press = 1012.93 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.6,write OK
+15:26:24.7,Press = 1012.86 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.7,write OK
+15:26:24.7,Press = 1012.91 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.7,write OK
+15:26:24.7,Press = 1012.86 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.7,write OK
+15:26:24.7,Press = 1012.88 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.7,write OK
+15:26:24.7,Press = 1012.89 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:24.8,write OK
+15:26:24.9,Press = 1012.93 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:25.5,write OK
+15:26:25.5,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:25.6,write OK
+15:26:25.6,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:25.7,write OK
+15:26:25.7,Press = 1012.86 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:25.7,write OK
+15:26:25.7,Press = 1012.87 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:25.7,write OK
+15:26:25.7,Press = 1012.87 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:25.8,write OK
+15:26:25.8,Press = 1012.82 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:25.8,write OK
+15:26:25.8,Press = 1012.88 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:25.8,write OK
+15:26:25.8,Press = 1012.84 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:25.9,write OK
+15:26:25.9,Press = 1012.90 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:26.0,write OK
+15:26:26.0,Press = 1012.88 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:26.1,write OK
+15:26:26.1,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:26.3,write OK
+15:26:26.5,Press = 1012.89 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:26.5,write OK
+15:26:26.5,Press = 1012.90 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:26.6,write OK
+15:26:26.6,Press = 1012.86 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:26.7,write OK
+15:26:26.8,Press = 1012.98 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:26.8,write OK
+15:26:26.8,Press = 1012.94 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:26.9,write OK
+15:26:26.9,Press = 1012.91 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:27.0,write OK
+15:26:27.1,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:27.1,write OK
+15:26:27.2,Press = 1012.90 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:27.3,write OK
+15:26:27.3,Press = 1012.95 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:27.4,write OK
+15:26:27.4,Press = 1012.96 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:27.5,write OK
+15:26:27.5,Press = 1013.00 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:27.7,write OK
+15:26:27.7,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.2,write OK
+15:26:28.2,Press = 1012.97 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.2,write OK
+15:26:28.2,Press = 1012.96 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.5,write OK
+15:26:28.5,Press = 1012.97 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.6,write OK
+15:26:28.6,Press = 1012.88 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.6,write OK
+15:26:28.6,Press = 1012.93 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.7,write OK
+15:26:28.7,Press = 1012.93 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.7,write OK
+15:26:28.7,Press = 1012.96 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.7,write OK
+15:26:28.7,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.7,write OK
+15:26:28.7,Press = 1012.95 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:28.9,write OK
+15:26:28.9,Press = 1012.91 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:29.2,write OK
+15:26:29.2,Press = 1012.90 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:29.2,write OK
+15:26:29.2,Press = 1012.94 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:29.2,write OK
+15:26:29.2,Press = 1012.90 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:29.4,write OK
+15:26:29.4,Press = 1012.91 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:29.5,write OK
+15:26:29.5,Press = 1012.88 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:29.8,write OK
+15:26:29.8,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:29.8,write OK
+15:26:29.8,Press = 1012.95 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:29.8,write OK
+15:26:29.8,Press = 1012.91 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:29.9,write OK
+15:26:30.0,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:30.1,write OK
+15:26:30.1,Press = 1012.96 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:30.2,write OK
+15:26:30.2,Press = 1012.90 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:30.3,write OK
+15:26:30.3,Press = 1012.93 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:30.5,write OK
+15:26:30.5,Press = 1012.94 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:30.6,write OK
+15:26:30.7,Press = 1012.93 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:30.7,write OK
+15:26:30.7,Press = 1012.94 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:30.8,write OK
+15:26:30.8,Press = 1012.99 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:31.0,write OK
+15:26:31.0,Press = 1013.01 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:31.1,write OK
+15:26:31.1,Press = 1012.98 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:31.2,write OK
+15:26:31.2,Press = 1012.91 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:31.3,write OK
+15:26:31.3,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:31.5,write OK
+15:26:31.5,Press = 1012.95 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:31.6,write OK
+15:26:31.7,Press = 1012.95 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:31.7,write OK
+15:26:31.7,Press = 1012.95 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:31.8,write OK
+15:26:31.8,Press = 1012.94 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:31.9,write OK
+15:26:32.0,Press = 1012.92 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:32.1,write OK
+15:26:32.1,Press = 1012.90 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:32.2,write OK
+15:26:32.2,Press = 1012.86 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:32.3,write OK
+15:26:32.4,Press = 1012.91 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:32.4,write OK
+15:26:32.4,Press = 1012.81 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:32.6,write OK
+15:26:32.6,Press = 1012.80 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:32.7,write OK
+15:26:32.7,Press = 1012.84 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:32.8,write OK
+15:26:32.8,Press = 1012.82 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:32.9,write OK
+15:26:32.9,Press = 1012.84 hPa  Temp = 13.71 deg.  Waiting. FlytePIN is connecting
+15:26:33.1,write OK
+15:26:33.1,Press = 1012.87 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:33.2,write OK
+15:26:33.2,Press = 1012.86 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:33.3,write OK
+15:26:33.4,Press = 1012.85 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:33.4,write OK
+15:26:33.4,Press = 1012.90 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:33.8,write OK
+15:26:33.8,Press = 1012.97 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:33.8,write OK
+15:26:33.8,Press = 1012.90 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:33.9,write OK
+15:26:33.9,Press = 1012.90 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:33.9,write OK
+15:26:33.9,Press = 1012.90 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:34.1,write OK
+15:26:34.1,Press = 1012.89 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:34.2,write OK
+15:26:34.2,Press = 1012.90 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:34.3,write OK
+15:26:34.3,Press = 1012.84 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:34.4,write OK
+15:26:34.4,Press = 1012.84 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:34.6,write OK
+15:26:34.6,Press = 1012.85 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:34.6,write OK
+15:26:34.7,Press = 1012.88 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:34.8,write OK
+15:26:34.8,Press = 1012.91 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:34.9,write OK
+15:26:34.9,Press = 1012.91 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:35.0,write OK
+15:26:35.0,Press = 1012.89 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:35.2,write OK
+15:26:35.3,Press = 1012.84 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:35.4,write OK
+15:26:35.4,Press = 1012.87 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:35.8,write OK
+15:26:35.9,Press = 1012.90 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.0,write OK
+15:26:36.0,Press = 1012.88 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.1,write OK
+15:26:36.1,Press = 1012.93 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.1,write OK
+15:26:36.1,Press = 1012.96 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.2,write OK
+15:26:36.2,Press = 1012.90 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.2,write OK
+15:26:36.2,Press = 1012.84 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.3,write OK
+15:26:36.3,Press = 1012.85 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.3,write OK
+15:26:36.3,Press = 1012.85 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.4,write OK
+15:26:36.4,Press = 1012.90 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.5,write OK
+15:26:36.5,Press = 1012.86 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.7,write OK
+15:26:36.7,Press = 1012.87 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.8,write OK
+15:26:36.8,Press = 1012.81 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:36.9,write OK
+15:26:36.9,Press = 1012.84 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:37.0,write OK
+15:26:37.1,Press = 1012.86 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:37.2,write OK
+15:26:37.2,Press = 1012.87 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:37.3,write OK
+15:26:37.5,Press = 1012.86 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:37.5,write OK
+15:26:37.5,Press = 1012.88 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:37.6,write OK
+15:26:37.6,Press = 1012.92 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:37.7,write OK
+15:26:37.7,Press = 1012.91 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:37.8,write OK
+15:26:37.8,Press = 1012.93 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:37.9,write OK
+15:26:37.9,Press = 1012.88 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:38.0,write OK
+15:26:38.1,Press = 1012.94 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:38.2,write OK
+15:26:38.2,Press = 1012.89 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:38.3,write OK
+15:26:38.3,Press = 1012.92 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:38.4,write OK
+15:26:38.4,Press = 1012.94 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:38.5,write OK
+15:26:38.6,Press = 1012.86 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:38.7,write OK
+15:26:38.7,Press = 1012.90 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:38.8,write OK
+15:26:38.8,Press = 1012.93 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:38.9,write OK
+15:26:38.9,Press = 1012.88 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:39.0,write OK
+15:26:39.0,Press = 1012.86 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:39.1,write OK
+15:26:39.1,Press = 1012.89 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:39.2,write OK
+15:26:39.3,Press = 1012.87 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:39.4,write OK
+15:26:39.4,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:39.5,write OK
+15:26:39.5,Press = 1012.91 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:39.6,write OK
+15:26:39.8,Press = 1012.92 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:39.9,write OK
+15:26:39.9,Press = 1012.93 hPa  Temp = 13.72 deg.  Waiting. FlytePIN is connecting
+15:26:39.9,write OK
+15:26:40.0,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:40.1,write OK
+15:26:40.1,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:40.1,write OK
+15:26:40.1,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:40.3,write OK
+15:26:40.3,Press = 1012.93 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:40.4,write OK
+15:26:40.4,Press = 1012.95 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:40.5,write OK
+15:26:40.5,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:40.6,write OK
+15:26:40.6,Press = 1012.87 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:40.8,write OK
+15:26:40.8,Press = 1012.87 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:40.9,write OK
+15:26:40.9,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:41.0,write OK
+15:26:41.1,Press = 1012.88 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:41.3,write OK
+15:26:41.3,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:41.3,write OK
+15:26:41.3,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:41.4,write OK
+15:26:41.4,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:41.6,write OK
+15:26:41.6,Press = 1012.85 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:41.7,write OK
+15:26:41.7,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:41.8,write OK
+15:26:41.8,Press = 1012.83 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:41.9,write OK
+15:26:41.9,Press = 1012.82 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:42.0,write OK
+15:26:42.0,Press = 1012.80 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:42.1,write OK
+15:26:42.1,Press = 1012.85 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:42.2,write OK
+15:26:42.3,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:42.4,write OK
+15:26:42.4,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:42.5,write OK
+15:26:42.5,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:42.6,write OK
+15:26:42.6,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:42.7,write OK
+15:26:42.8,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:42.8,write OK
+15:26:42.8,Press = 1012.88 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:43.0,write OK
+15:26:43.0,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:43.1,write OK
+15:26:43.1,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:43.2,write OK
+15:26:43.2,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:43.3,write OK
+15:26:43.3,Press = 1012.87 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:43.5,write OK
+15:26:43.5,Press = 1012.99 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:43.6,write OK
+15:26:43.6,Press = 1012.93 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:43.7,write OK
+15:26:43.7,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:43.8,write OK
+15:26:43.8,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:43.9,write OK
+15:26:44.0,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:44.1,write OK
+15:26:44.1,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:44.2,write OK
+15:26:44.3,Press = 1012.86 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:44.3,write OK
+15:26:44.4,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:44.5,write OK
+15:26:44.5,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:44.6,write OK
+15:26:44.6,Press = 1012.87 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:44.7,write OK
+15:26:44.7,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:44.8,write OK
+15:26:44.8,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:44.9,write OK
+15:26:45.0,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:45.1,write OK
+15:26:45.1,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:45.2,write OK
+15:26:45.2,Press = 1012.93 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:45.3,write OK
+15:26:45.3,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:45.4,write OK
+15:26:45.5,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:45.6,write OK
+15:26:45.6,Press = 1012.93 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:45.7,write OK
+15:26:45.7,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:45.8,write OK
+15:26:45.8,Press = 1012.96 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:45.9,write OK
+15:26:45.9,Press = 1012.94 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:46.0,write OK
+15:26:46.1,Press = 1012.96 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:46.2,write OK
+15:26:46.2,Press = 1012.94 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:46.3,write OK
+15:26:46.3,Press = 1012.95 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:46.4,write OK
+15:26:46.4,Press = 1012.85 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:46.6,write OK
+15:26:46.6,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:46.7,write OK
+15:26:46.8,Press = 1012.94 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:46.8,write OK
+15:26:46.8,Press = 1012.91 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:47.1,write OK
+15:26:47.1,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:47.3,write OK
+15:26:47.3,Press = 1012.98 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:47.3,write OK
+15:26:47.3,Press = 1012.99 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:47.4,write OK
+15:26:47.5,Press = 1012.94 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:47.5,write OK
+15:26:47.5,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:47.6,write OK
+15:26:47.6,Press = 1012.93 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:47.7,write OK
+15:26:47.7,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:47.8,write OK
+15:26:47.8,Press = 1013.03 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:47.9,write OK
+15:26:47.9,Press = 1013.02 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:48.1,write OK
+15:26:48.1,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:48.2,write OK
+15:26:48.3,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:48.3,write OK
+15:26:48.3,Press = 1013.00 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:48.4,write OK
+15:26:48.4,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:48.6,write OK
+15:26:48.6,Press = 1012.94 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:48.7,write OK
+15:26:48.7,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:48.8,write OK
+15:26:48.8,Press = 1012.95 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:48.9,write OK
+15:26:49.0,Press = 1012.96 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:49.1,write OK
+15:26:49.1,Press = 1013.02 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:49.2,write OK
+15:26:49.2,Press = 1013.00 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:49.3,write OK
+15:26:49.3,Press = 1013.08 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:49.4,write OK
+15:26:49.5,Press = 1012.98 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:49.6,write OK
+15:26:49.7,Press = 1012.88 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:49.9,write OK
+15:26:50.0,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:50.0,write OK
+15:26:50.1,Press = 1012.94 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:50.1,write OK
+15:26:50.1,Press = 1012.98 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:50.1,write OK
+15:26:50.2,Press = 1012.95 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:50.2,write OK
+15:26:50.2,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:50.3,write OK
+15:26:50.4,Press = 1012.98 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:50.5,write OK
+15:26:50.7,Press = 1012.93 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:50.8,write OK
+15:26:50.8,Press = 1012.93 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:50.8,write OK
+15:26:50.9,Press = 1012.86 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:51.1,write OK
+15:26:51.1,Press = 1012.88 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:51.1,write OK
+15:26:51.1,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:51.1,write OK
+15:26:51.1,Press = 1012.88 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:51.1,write OK
+15:26:51.2,Press = 1012.94 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:51.3,write OK
+15:26:51.3,Press = 1012.95 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:51.4,write OK
+15:26:51.4,Press = 1013.02 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:51.5,write OK
+15:26:51.5,Press = 1012.97 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:51.7,write OK
+15:26:51.7,Press = 1012.88 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:51.8,write OK
+15:26:51.8,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:52.1,write OK
+15:26:52.1,Press = 1012.84 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:52.1,write OK
+15:26:52.1,Press = 1012.85 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:52.3,write OK
+15:26:52.3,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:52.3,write OK
+15:26:52.3,Press = 1012.90 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:52.4,write OK
+15:26:52.4,Press = 1012.93 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:52.5,write OK
+15:26:52.5,Press = 1012.95 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:52.7,write OK
+15:26:52.7,Press = 1012.99 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:52.8,write OK
+15:26:52.8,Press = 1012.98 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:52.9,write OK
+15:26:52.9,Press = 1012.93 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:53.0,write OK
+15:26:53.0,Press = 1012.94 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:53.1,write OK
+15:26:53.2,Press = 1012.93 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:53.3,write OK
+15:26:53.3,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:53.4,write OK
+15:26:53.5,Press = 1012.92 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:53.8,write OK
+15:26:53.8,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:53.9,write OK
+15:26:54.0,Press = 1012.88 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:54.1,write OK
+15:26:54.1,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:54.2,write OK
+15:26:54.2,Press = 1012.91 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:54.3,write OK
+15:26:54.3,Press = 1012.89 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:54.4,write OK
+15:26:54.4,Press = 1012.87 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:54.5,write OK
+15:26:54.5,Press = 1012.87 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:54.6,write OK
+15:26:54.6,Press = 1012.87 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:54.7,write OK
+15:26:54.7,Press = 1012.86 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:54.7,write OK
+15:26:54.7,Press = 1012.85 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:54.7,write OK
+15:26:54.7,Press = 1012.88 hPa  Temp = 13.73 deg.  Waiting. FlytePIN is connecting
+15:26:54.8,write OK
+15:26:54.8,Press = 1012.83 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:55.0,write OK
+15:26:55.0,Press = 1012.85 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:55.1,write OK
+15:26:55.1,Press = 1012.79 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:55.2,write OK
+15:26:55.3,Press = 1012.85 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:55.3,write OK
+15:26:55.3,Press = 1012.83 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:55.5,write OK
+15:26:55.5,Press = 1012.86 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:55.6,write OK
+15:26:55.6,Press = 1012.81 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:55.7,write OK
+15:26:55.7,Press = 1012.86 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:55.8,write OK
+15:26:55.9,Press = 1012.88 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:56.0,write OK
+15:26:56.0,Press = 1012.94 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:56.1,write OK
+15:26:56.1,Press = 1012.91 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:56.3,write OK
+15:26:56.3,Press = 1012.91 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:56.6,write OK
+15:26:56.6,Press = 1012.91 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:56.8,write OK
+15:26:56.8,Press = 1012.93 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:56.8,write OK
+15:26:56.8,Press = 1012.92 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:56.9,write OK
+15:26:56.9,Press = 1012.94 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:56.9,write OK
+15:26:56.9,Press = 1012.89 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:56.9,write OK
+15:26:57.0,Press = 1012.84 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:57.1,write OK
+15:26:57.1,Press = 1012.89 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:57.2,write OK
+15:26:57.2,Press = 1012.91 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:57.3,write OK
+15:26:57.5,Press = 1012.92 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:57.7,write OK
+15:26:57.7,Press = 1012.91 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:57.8,write OK
+15:26:57.9,Press = 1012.93 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:58.0,write OK
+15:26:58.0,Press = 1012.94 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:58.7,write OK
+15:26:58.8,Press = 1012.90 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:58.9,write OK
+15:26:58.9,Press = 1012.93 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.1,write OK
+15:26:59.1,Press = 1012.91 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.2,write OK
+15:26:59.2,Press = 1012.90 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.3,write OK
+15:26:59.3,Press = 1012.96 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.3,write OK
+15:26:59.3,Press = 1012.96 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.4,write OK
+15:26:59.4,Press = 1012.91 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.4,write OK
+15:26:59.4,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.4,write OK
+15:26:59.4,Press = 1012.98 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.5,write OK
+15:26:59.5,Press = 1012.96 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.5,write OK
+15:26:59.6,Press = 1012.92 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.6,write OK
+15:26:59.6,Press = 1012.96 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.7,write OK
+15:26:59.7,Press = 1012.96 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:26:59.8,write OK
+15:26:59.8,Press = 1012.98 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:00.0,write OK
+15:27:00.0,Press = 1012.89 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:00.1,write OK
+15:27:00.1,Press = 1013.01 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:00.2,write OK
+15:27:00.2,Press = 1012.95 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:00.3,write OK
+15:27:00.3,Press = 1012.97 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:00.5,write OK
+15:27:00.5,Press = 1012.89 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:00.6,write OK
+15:27:00.6,Press = 1012.96 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:00.7,write OK
+15:27:00.7,Press = 1012.94 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:00.9,write OK
+15:27:00.9,Press = 1012.95 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:00.9,write OK
+15:27:00.9,Press = 1012.95 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:01.1,write OK
+15:27:01.1,Press = 1012.84 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:01.2,write OK
+15:27:01.2,Press = 1012.87 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:01.3,write OK
+15:27:01.3,Press = 1012.93 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:01.6,write OK
+15:27:01.6,Press = 1013.00 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:01.7,write OK
+15:27:01.7,Press = 1013.08 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:01.7,write OK
+15:27:01.7,Press = 1013.17 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:01.8,write OK
+15:27:01.8,Press = 1013.21 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:02.0,write OK
+15:27:02.0,Press = 1013.31 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:02.1,write OK
+15:27:02.1,Press = 1013.48 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:02.4,write OK
+15:27:02.4,Press = 1013.55 hPa  Temp = 13.74 deg.  Waiting. FlytePIN is connecting
+15:27:02.4,write OK
+15:27:02.4,FlytePIN Separate! Falling ! 1Press = 1013.77 hPa  Temp = 13.74 deg.  
+15:27:02.5,FlytePIN Separate! Falling! 2
+15:27:02.5,write OK
+15:27:02.5,FlytePIN Separate! Falling! 3
+15:27:02.5,Press = 1014.44 hPa  Temp = 13.75 deg.  
+15:27:02.5,write OK
+15:27:23.2,==============prachute_separate!===================
+15:27:23.2,==============Landing detected!==============
+15:27:23.2,  write OK
+15:27:32.9,--------------------------------------
+15:27:32.9,15:27:28,Lat:,30.37490 ,Lot:,130.96007 ,  DistanceGPS = 66.20 : DirectionGPS = 181.46
+15:27:32.9,Accl= -0.03,0.67,-0.85
+15:27:33.0,Gyro= -0.19,0.02,-0.01
+15:27:33.0,Mag= -64,118,70
+15:27:33.3,DirectionMag = 80.08
+15:27:33.3,DirectionGPS = 181.46
+15:27:33.3,GOAL degree=101.38
+15:27:33.3,Turn Right
+15:27:33.3,After moving Mag_degree=71.60
+15:27:33.3,
+15:27:33.3,
+15:27:33.3,DirectionMag = 71.60
+15:27:36.7,DirectionGPS = 181.46
+15:27:36.7,GOAL degree=109.86
+15:27:36.7,Turn Right
+15:27:36.7,After moving Mag_degree=67.22
+15:27:36.7,
+15:27:36.7,
+15:27:36.7,DirectionMag = 67.22
+15:27:36.7,DirectionGPS = 181.46
+15:27:36.7,GOAL degree=114.24
+15:27:36.7,Turn Right
+15:27:37.0,After moving Mag_degree=98.91
+15:27:37.0,
+15:27:37.0,
+15:27:37.5,DirectionMag = 98.91
+15:27:38.4,DirectionGPS = 181.46
+15:27:38.4,GOAL degree=82.55
+15:27:38.4,Turn Right
+15:27:39.8,After moving Mag_degree=183.43
+15:27:39.8,Goal degree=1.96
+15:27:39.8,Go straight for 10s
+15:27:51.7,
+15:27:51.7,
+15:27:51.7,
+15:27:51.7,
+15:27:52.1,--------------------------------------
+15:27:52.1,15:27:51,Lat:,30.37489 ,Lot:,130.96007 ,  DistanceGPS = 65.56 : DirectionGPS = 181.48
+15:27:52.1,Accl= -0.03,0.65,-0.87
+15:27:52.1,Gyro= -0.14,-0.38,0.21
+15:27:52.1,Mag= -129,37,27
+15:27:52.1,DirectionMag = 208.97
+15:27:52.1,DirectionGPS = 181.48
+15:27:52.1,GOAL degree=27.49
+15:27:52.1,Turn Left
+15:27:54.4,After moving Mag_degree=199.02
+15:27:54.4,Goal degree=17.55
+15:27:54.4,Go straight for 10s
+15:28:05.9,
+15:28:05.9,
+15:28:05.9,
+15:28:05.9,
+15:28:07.0,--------------------------------------
+15:28:07.0,15:28:06,Lat:,30.37489 ,Lot:,130.96007 ,  DistanceGPS = 65.56 : DirectionGPS = 181.48
+15:28:07.1,Accl= -0.02,0.63,-0.88
+15:28:07.1,Gyro= -0.17,-0.28,0.09
+15:28:07.1,Mag= -136,38,27
+15:28:07.1,DirectionMag = 207.34
+15:28:07.1,DirectionGPS = 181.48
+15:28:07.1,GOAL degree=25.86
+15:28:07.1,Turn Left
+15:28:09.4,After moving Mag_degree=209.05
+15:28:09.4,
+15:28:09.4,
+15:28:09.9,DirectionMag = 209.05
+15:28:10.0,DirectionGPS = 181.48
+15:28:10.0,GOAL degree=27.57
+15:28:10.0,Turn Left
+15:28:12.2,After moving Mag_degree=208.67
+15:28:12.2,
+15:28:12.2,
+15:28:12.7,DirectionMag = 208.67
+15:28:12.7,DirectionGPS = 181.48
+15:28:12.7,GOAL degree=27.19
+15:28:12.7,Turn Left
+15:28:15.0,After moving Mag_degree=207.78
+15:28:15.0,
+15:28:15.0,
+15:28:15.5,DirectionMag = 207.78
+15:28:15.5,DirectionGPS = 181.48
+15:28:15.5,GOAL degree=26.30
+15:28:15.5,Turn Left
+15:28:17.9,After moving Mag_degree=205.23
+15:28:17.9,
+15:28:17.9,
+15:28:18.3,DirectionMag = 205.23
+15:28:18.4,DirectionGPS = 181.48
+15:28:18.4,GOAL degree=23.75
+15:28:18.4,Turn Left
+15:28:20.7,After moving Mag_degree=209.63
+15:28:20.7,
+15:28:20.7,
+15:28:21.1,DirectionMag = 209.63
+15:28:21.1,DirectionGPS = 181.48
+15:28:21.1,GOAL degree=28.15
+15:28:21.1,Turn Left
+15:28:23.5,After moving Mag_degree=207.45
+15:28:23.5,
+15:28:23.5,
+15:28:23.9,DirectionMag = 207.45
+15:28:23.9,DirectionGPS = 181.48
+15:28:23.9,GOAL degree=25.97
+15:28:23.9,Turn Left
+15:28:26.2,After moving Mag_degree=207.22
+15:28:26.3, Stacked!! Go straight for 3s 
+15:28:30.8,
+15:28:30.8,
+15:28:30.8,
+15:28:30.8,
+15:28:30.8,
+15:28:32.1,--------------------------------------
+15:28:32.1,15:28:31,Lat:,30.37489 ,Lot:,130.96007 ,  DistanceGPS = 65.56 : DirectionGPS = 181.48
+15:28:32.1,Accl= -0.04,0.63,-0.87
+15:28:32.2,Gyro= -0.14,-0.09,-0.03
+15:28:32.2,Mag= -141,37,20
+15:28:32.2,DirectionMag = 208.08
+15:28:32.2,DirectionGPS = 181.48
+15:28:32.2,GOAL degree=26.60
+15:28:32.2,Turn Left
+15:28:34.4,After moving Mag_degree=206.97
+15:28:34.4,
+15:28:34.4,
+15:28:34.9,DirectionMag = 206.97
+15:28:34.9,DirectionGPS = 181.48
+15:28:34.9,GOAL degree=25.50
+15:28:34.9,Turn Left
+15:28:37.2,After moving Mag_degree=208.15
+15:28:37.2,
+15:28:37.2,
+15:28:37.7,DirectionMag = 208.15
+15:28:37.7,DirectionGPS = 181.48
+15:28:37.7,GOAL degree=26.67
+15:28:37.7,Turn Left
+15:28:40.1,After moving Mag_degree=205.55
+15:28:40.1,
+15:28:40.1,
+15:28:40.5,DirectionMag = 205.55
+15:28:40.5,DirectionGPS = 181.48
+15:28:40.5,GOAL degree=24.08
+15:28:40.5,Turn Left
+15:28:42.9,After moving Mag_degree=207.81
+15:28:42.9,
+15:28:42.9,
+15:28:43.3,DirectionMag = 207.81
+15:28:43.4,DirectionGPS = 181.48
+15:28:43.4,GOAL degree=26.33
+15:28:43.4,Turn Left
+15:28:45.7,After moving Mag_degree=208.81
+15:28:45.7,
+15:28:45.7,
+15:28:46.1,DirectionMag = 208.81
+15:28:46.1,DirectionGPS = 181.48
+15:28:46.1,GOAL degree=27.33
+15:28:46.1,Turn Left
+15:28:48.4,After moving Mag_degree=206.58
+15:28:48.4,
+15:28:48.4,
+15:28:48.9,DirectionMag = 206.58
+15:28:49.0,DirectionGPS = 181.48
+15:28:49.0,GOAL degree=25.10
+15:28:49.0,Turn Left
+15:28:51.3,After moving Mag_degree=207.28
+15:28:51.3,
+15:28:51.3,
+15:28:51.7,DirectionMag = 207.28
+15:28:51.7,DirectionGPS = 181.48
+15:28:51.7,GOAL degree=25.80
+15:28:51.7,Turn Left
+15:28:54.1,After moving Mag_degree=206.01
+15:28:54.1,
+15:28:54.1,
+15:28:54.5,DirectionMag = 206.01
+15:28:54.5,DirectionGPS = 181.48
+15:28:54.5,GOAL degree=24.53
+15:28:54.5,Turn Left
+15:28:56.9,After moving Mag_degree=210.27
+15:28:56.9,
+15:28:56.9,
+15:28:57.3,DirectionMag = 210.27
+15:28:57.3,DirectionGPS = 181.48
+15:28:57.3,GOAL degree=28.79
+15:28:57.3,Turn Left
+15:28:59.7,After moving Mag_degree=208.30
+15:28:59.7, Stacked!! Go straight for 3s 
+15:29:04.2,
+15:29:04.2,
+15:29:04.2,
+15:29:04.2,
+15:29:04.2,
+15:29:05.1,--------------------------------------
+15:29:05.1,15:29:04,Lat:,30.37489 ,Lot:,130.96007 ,  DistanceGPS = 65.56 : DirectionGPS = 181.48
+15:29:05.1,Accl= -0.04,0.63,-0.87
+15:29:05.1,Gyro= -0.05,-0.09,0.02
+15:29:05.1,Mag= -147,35,25
+15:29:05.1,DirectionMag = 205.36
+15:29:05.1,DirectionGPS = 181.48
+15:29:05.1,GOAL degree=23.88
+15:29:05.1,Turn Left
+15:29:07.4,After moving Mag_degree=205.88
+15:29:07.4,
+15:29:07.4,
+15:29:07.9,DirectionMag = 205.88
+15:29:07.9,DirectionGPS = 181.48
+15:29:07.9,GOAL degree=24.40
+15:29:07.9,Turn Left
+15:29:10.2,After moving Mag_degree=204.77
+15:29:10.2,
+15:29:10.2,
+15:29:10.7,DirectionMag = 204.77
+15:29:10.7,DirectionGPS = 181.48
+15:29:10.7,GOAL degree=23.30
+15:29:10.7,Turn Left
+15:29:13.1,After moving Mag_degree=204.45
+15:29:13.1,
+15:29:13.1,
+15:29:13.5,DirectionMag = 204.45
+15:29:13.6,DirectionGPS = 181.48
+15:29:13.6,GOAL degree=22.97
+15:29:13.6,Turn Left
+15:29:15.9,After moving Mag_degree=205.69
+15:29:15.9,
+15:29:15.9,
+15:29:16.3,DirectionMag = 205.69
+15:29:16.4,DirectionGPS = 181.48
+15:29:16.4,GOAL degree=24.21
+15:29:16.4,Turn Left
+15:29:18.7,After moving Mag_degree=206.28
+15:29:18.7,
+15:29:18.7,
+15:29:19.1,DirectionMag = 206.28
+15:29:19.1,DirectionGPS = 181.48
+15:29:19.1,GOAL degree=24.80
+15:29:19.1,Turn Left
+15:29:21.4,After moving Mag_degree=206.56
+15:29:21.5,
+15:29:21.5,
+15:29:21.9,DirectionMag = 206.56
+15:29:22.0,DirectionGPS = 181.48
+15:29:22.0,GOAL degree=25.09
+15:29:22.0,Turn Left
+15:29:24.3,After moving Mag_degree=206.84
+15:29:24.3,
+15:29:24.3,
+15:29:24.8,DirectionMag = 206.84
+15:29:24.8,DirectionGPS = 181.48
+15:29:24.8,GOAL degree=25.36
+15:29:24.8,Turn Left
+15:29:27.1,After moving Mag_degree=204.37
+15:29:27.1,
+15:29:27.1,
+15:29:27.6,DirectionMag = 204.37
+15:29:27.6,DirectionGPS = 181.48
+15:29:27.6,GOAL degree=22.89
+15:29:27.6,Turn Left
+15:29:29.9,After moving Mag_degree=204.96
+15:29:29.9,
+15:29:29.9,
+15:29:30.4,DirectionMag = 204.96
+15:29:30.4,DirectionGPS = 181.48
+15:29:30.4,GOAL degree=23.48
+15:29:30.4,Turn Left
+15:29:32.7,After moving Mag_degree=203.91
+15:29:32.7, Stacked!! Go straight for 3s 
+15:29:37.2,
+15:29:37.2,
+15:29:37.2,
+15:29:37.2,
+15:29:37.2,
+15:29:38.1,--------------------------------------
+15:29:38.1,15:29:37,Lat:,30.37489 ,Lot:,130.96007 ,  DistanceGPS = 65.14 : DirectionGPS = 181.49
+15:29:38.1,Accl= -0.04,0.63,-0.88
+15:29:38.1,Gyro= -0.00,-0.09,-0.02
+15:29:38.1,Mag= -143,36,23
+15:29:38.1,DirectionMag = 207.00
+15:29:38.1,DirectionGPS = 181.49
+15:29:38.1,GOAL degree=25.51
+15:29:38.1,Turn Left
+15:29:40.5,After moving Mag_degree=207.29
+15:29:40.5,
+15:29:40.5,
+15:29:40.9,DirectionMag = 207.29
+15:29:40.9,DirectionGPS = 181.49
+15:29:40.9,GOAL degree=25.80
+15:29:40.9,Turn Left
+15:29:43.2,After moving Mag_degree=207.37
+15:29:43.2,
+15:29:43.2,
+15:29:43.7,DirectionMag = 207.37
+15:29:43.7,DirectionGPS = 181.49
+15:29:43.7,GOAL degree=25.88
+15:29:43.7,Turn Left
+15:29:46.1,After moving Mag_degree=205.87
+15:29:46.1,
+15:29:46.1,
+15:29:46.5,DirectionMag = 205.87
+15:29:46.6,DirectionGPS = 181.49
+15:29:46.6,GOAL degree=24.38
+15:29:46.6,Turn Left
+15:29:48.9,After moving Mag_degree=207.04
+15:29:48.9,
+15:29:48.9,
+15:29:49.3,DirectionMag = 207.04
+15:29:49.3,DirectionGPS = 181.49
+15:29:49.3,GOAL degree=25.55
+15:29:49.3,Turn Left
+15:29:51.7,After moving Mag_degree=205.38
+15:29:51.7,
+15:29:51.7,
+15:29:52.1,DirectionMag = 205.38
+15:29:52.2,DirectionGPS = 181.49
+15:29:52.2,GOAL degree=23.89
+15:29:52.2,Turn Left
+15:29:54.5,After moving Mag_degree=204.71
+15:29:54.5,
+15:29:54.5,
+15:29:54.9,DirectionMag = 204.71
+15:29:54.9,DirectionGPS = 181.49
+15:29:54.9,GOAL degree=23.22
+15:29:54.9,Turn Left
+15:29:57.3,After moving Mag_degree=205.94
+15:29:57.3,
+15:29:57.3,
+15:29:57.7,DirectionMag = 205.94
+15:29:57.8,DirectionGPS = 181.49
+15:29:57.8,GOAL degree=24.45
+15:29:57.8,Turn Left
+15:30:00.1,After moving Mag_degree=206.25
+15:30:00.1,
+15:30:00.1,
+15:30:00.6,DirectionMag = 206.25
+15:30:00.6,DirectionGPS = 181.49
+15:30:00.6,GOAL degree=24.76
+15:30:00.6,Turn Left
+15:30:02.9,After moving Mag_degree=206.27
+15:30:02.9,
+15:30:02.9,
+15:30:03.4,DirectionMag = 206.27
+15:30:03.4,DirectionGPS = 181.49
+15:30:03.4,GOAL degree=24.78
+15:30:03.4,Turn Left
+15:30:05.7,After moving Mag_degree=206.14
+15:30:05.7, Stacked!! Go straight for 3s 
+15:30:10.2,
+15:30:10.2,
+15:30:10.2,
+15:30:10.2,
+15:30:10.2,
+15:30:11.1,--------------------------------------
+15:30:11.1,15:30:10,Lat:,30.37488 ,Lot:,130.96007 ,  DistanceGPS = 64.72 : DirectionGPS = 181.50
+15:30:11.1,Accl= -0.04,0.63,-0.88
+15:30:11.1,Gyro= -0.00,0.08,0.03
+15:30:11.1,Mag= -142,38,22
+15:30:11.1,DirectionMag = 206.76
+15:30:11.1,DirectionGPS = 181.50
+15:30:11.1,GOAL degree=25.26
+15:30:11.1,Turn Left
+15:30:13.4,After moving Mag_degree=206.11
+15:30:13.4,
+15:30:13.4,
+15:30:13.9,DirectionMag = 206.11
+15:30:13.9,DirectionGPS = 181.50
+15:30:13.9,GOAL degree=24.61
+15:30:13.9,Turn Left
+15:30:16.2,After moving Mag_degree=206.31
+15:30:16.2,
+15:30:16.2,
+15:30:16.7,DirectionMag = 206.31
+15:30:16.8,DirectionGPS = 181.50
+15:30:16.8,GOAL degree=24.81
+15:30:16.8,Turn Left
+15:30:19.1,After moving Mag_degree=207.71
+15:30:19.1,
+15:30:19.1,
+15:30:19.5,DirectionMag = 207.71
+15:30:19.6,DirectionGPS = 181.50
+15:30:19.6,GOAL degree=26.21
+15:30:19.6,Turn Left
+15:30:21.9,After moving Mag_degree=208.52
+15:30:21.9,
+15:30:21.9,
+15:30:22.3,DirectionMag = 208.52
+15:30:22.3,DirectionGPS = 181.50
+15:30:22.3,GOAL degree=27.03
+15:30:22.3,Turn Left
+15:30:24.7,After moving Mag_degree=207.19
+15:30:24.7,
+15:30:24.7,
+15:30:25.1,DirectionMag = 207.19
+15:30:25.2,DirectionGPS = 181.50
+15:30:25.2,GOAL degree=25.69
+15:30:25.2,Turn Left
+15:30:27.4,After moving Mag_degree=207.22
+15:30:27.4,
+15:30:27.4,
+15:30:27.9,DirectionMag = 207.22
+15:30:27.9,DirectionGPS = 181.50
+15:30:27.9,GOAL degree=25.72
+15:30:27.9,Turn Left
+15:30:30.3,After moving Mag_degree=210.60
+15:30:30.3,
+15:30:30.3,
+15:30:30.7,DirectionMag = 210.60
+15:30:30.7,DirectionGPS = 181.50
+15:30:30.7,GOAL degree=29.10
+15:30:30.7,Turn Left
+15:30:33.1,After moving Mag_degree=207.70
+15:30:33.1,
+15:30:33.1,
+15:30:33.5,DirectionMag = 207.70
+15:30:33.6,DirectionGPS = 181.50
+15:30:33.6,GOAL degree=26.21
+15:30:33.6,Turn Left
+15:30:35.9,After moving Mag_degree=207.48
+15:30:35.9,
+15:30:35.9,
+15:30:36.4,DirectionMag = 207.48
+15:30:36.4,DirectionGPS = 181.50
+15:30:36.4,GOAL degree=25.98
+15:30:36.4,Turn Left
+15:30:38.7,After moving Mag_degree=206.90
+15:30:38.7, Stacked!! Go straight for 3s 
+15:30:43.2,
+15:30:43.2,
+15:30:43.2,
+15:30:43.2,
+15:30:43.2,
+15:30:44.1,--------------------------------------
+15:30:44.1,15:30:43,Lat:,30.37488 ,Lot:,130.96007 ,  DistanceGPS = 64.72 : DirectionGPS = 181.50
+15:30:44.1,Accl= -0.04,0.63,-0.88
+15:30:44.1,Gyro= 0.05,-0.11,0.10
+15:30:44.1,Mag= -143,34,23
+15:30:44.1,DirectionMag = 208.50
+15:30:44.1,DirectionGPS = 181.50
+15:30:44.1,GOAL degree=27.00
+15:30:44.1,Turn Left
+15:30:46.4,After moving Mag_degree=208.56
+15:30:46.4,
+15:30:46.4,
+15:30:46.9,DirectionMag = 208.56
+15:30:46.9,DirectionGPS = 181.50
+15:30:46.9,GOAL degree=27.06
+15:30:46.9,Turn Left
+15:30:49.2,After moving Mag_degree=209.35
+15:30:49.2,
+15:30:49.2,
+15:30:49.7,DirectionMag = 209.35
+15:30:49.7,DirectionGPS = 181.50
+15:30:49.7,GOAL degree=27.85
+15:30:49.7,Turn Left
+15:30:52.1,After moving Mag_degree=209.45
+15:30:52.1,
+15:30:52.1,
+15:30:52.5,DirectionMag = 209.45
+15:30:52.5,DirectionGPS = 181.50
+15:30:52.5,GOAL degree=27.95
+15:30:52.5,Turn Left
+15:30:54.9,After moving Mag_degree=208.28
+15:30:54.9,
+15:30:54.9,
+15:30:55.3,DirectionMag = 208.28
+15:30:55.3,DirectionGPS = 181.50
+15:30:55.3,GOAL degree=26.78
+15:30:55.3,Turn Left
+15:30:57.7,After moving Mag_degree=207.05
+15:30:57.7,
+15:30:57.7,
+15:30:58.1,DirectionMag = 207.05
+15:30:58.2,DirectionGPS = 181.50
+15:30:58.2,GOAL degree=25.56
+15:30:58.2,Turn Left
+15:31:00.4,After moving Mag_degree=208.09
+15:31:00.5,
+15:31:00.5,
+15:31:00.9,DirectionMag = 208.09
+15:31:01.0,DirectionGPS = 181.50
+15:31:01.0,GOAL degree=26.59
+15:31:01.0,Turn Left
+15:31:03.3,After moving Mag_degree=209.08
+15:31:03.3,
+15:31:03.3,
+15:31:03.7,DirectionMag = 209.08
+15:31:03.8,DirectionGPS = 181.50
+15:31:03.8,GOAL degree=27.58
+15:31:03.8,Turn Left
+15:31:06.1,After moving Mag_degree=211.92
+15:31:06.1,
+15:31:06.1,
+15:31:06.6,DirectionMag = 211.92
+15:31:06.6,DirectionGPS = 181.50
+15:31:06.6,GOAL degree=30.42
+15:31:06.6,Turn Left
+15:31:08.9,After moving Mag_degree=208.89
+15:31:08.9,
+15:31:08.9,
+15:31:09.3,DirectionMag = 208.89
+15:31:09.4,DirectionGPS = 181.50
+15:31:09.4,GOAL degree=27.39
+15:31:09.4,Turn Left
+15:31:11.7,After moving Mag_degree=207.32
+15:31:11.7, Stacked!! Go straight for 3s 
+15:31:16.2,
+15:31:16.2,
+15:31:16.2,
+15:31:16.2,
+15:31:16.2,
